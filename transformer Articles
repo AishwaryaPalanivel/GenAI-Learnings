@@ -1,0 +1,11 @@
+ articles about how transformer works?
+Goal to understand:
+(a) Self-attention mechanism
+(b) Vector embedding
+(c) Feed forward Nueral Network
+===================
+Articles link
+=================
+https://www.datacamp.com/tutorial/how-transformers-work
+https://en.wikipedia.org/wiki/Transformer_%28deep_learning%29
+https://jalammar.github.io/illustrated-transformer/
